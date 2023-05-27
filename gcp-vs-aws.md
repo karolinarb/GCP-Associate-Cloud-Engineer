@@ -1,4 +1,4 @@
-###GCP's equivalent of an AWS service
+### GCP's equivalent of an AWS service
 Service type | GCP  | AWS
 ------------- | ------------- | -------------
 Core compute	| [Compute Engine](https://cloud.google.com/compute)  | Amazon Elastic Compute Cloud (EC2)
