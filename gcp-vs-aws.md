@@ -16,3 +16,6 @@ Containers without infrastructure	| [Cloud Run](https://cloud.google.com/run) | 
 FaaS	| [Cloud Functions](https://cloud.google.com/functions) | AWS Lambda
 Object storage	| [Cloud Storage](https://cloud.google.com/storage) | AWS Simple Storage Service (S3)
 File storage	| [Filestore](https://cloud.google.com/filestore) | Amazon Elastic File System (EFS)
+Virtual networks	| [Virtual Private Cloud](https://cloud.google.com/vpc) | Amazon Virtual Private Cloud (VPC)
+Logging	| [Cloud Logging](https://cloud.google.com/logging)	|	Amazon CloudWatch Logs
+Monitoring	| [Cloud Monitoring](https://cloud.google.com/monitoring) |	Amazon CloudWatch
